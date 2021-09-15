@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.bash.Testing" duration-ms="374" started-at="2021-09-10T19:25:49 IST" finished-at="2021-09-10T19:25:50 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="374" started-at="2021-09-10T19:25:49 IST" finished-at="2021-09-10T19:25:50 IST">
+      <class name="com.bash.Testing">
+        <test-method status="PASS" signature="main()[pri:0, instance:com.bash.Testing@5e5792a0]" name="main" duration-ms="42" started-at="2021-09-10T19:25:50 IST" finished-at="2021-09-10T19:25:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- com.bash.Testing -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.bash.Testing -->
+</testng-results>

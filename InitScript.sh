@@ -1,0 +1,1 @@
+cd C:\\Users\\RadheShyam\\Desktop\\bash && mvn clean install |tee ./log.txt
