@@ -13,7 +13,10 @@ import org.testng.annotations.Test;
 public class Testing {
 	@Test
 	public void  main() {
-	
+		
+		
+	 System.out.println("System properties : " + System.getProperty("dbUrl"));
+	  System.out.println("System properties : " + System.getProperty("dbPassword"));
     	 try {
     	      File myObj = new File("filename.txt");
     	      if (myObj.createNewFile()) {
